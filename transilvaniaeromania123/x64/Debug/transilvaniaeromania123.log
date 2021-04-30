@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (transilvaniaeromania123.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HamiltonSnake.cpp
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\HamiltonSnake.cpp(207,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\HamiltonSnake.cpp(207,25): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\HamiltonSnake.cpp(220,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\HamiltonSnake.cpp(220,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\HamiltonSnake.cpp(231,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\HamiltonSnake.cpp(231,28): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Snake.cpp
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\HamiltonSnake.cpp(293,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\Snake.cpp(110,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\Snake.cpp(110,25): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\Snake.cpp(123,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\Snake.cpp(123,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\Snake.cpp(134,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\Snake.cpp(134,28): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Bogdy\source\repos\SnakeGame\transilvaniaeromania123\Snake.cpp(228,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  transilvaniaeromania123.vcxproj -> C:\Users\Bogdy\source\repos\SnakeGame\x64\Debug\SnakeGame.exe
