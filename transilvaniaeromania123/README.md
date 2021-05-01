@@ -1,8 +1,8 @@
 # Descriere
 Snake.\
 Un sarpe se plimba, mancand mere, pentru fiecare mar, el creste. Scopul este simplu: Ajuta sarpele sa cresca cat de lung posibil.\
-Jocul are 2 moduri de joc:\
-1. Tu il controlezi pe sarpe, participand astfel in aventura de mancat mere.\
+Jocul are 2 moduri de joc:
+1. Tu il controlezi pe sarpe, participand astfel in aventura de mancat mere.
 2. Lasi sarpele la mana calculatorului, care stie sa il controleze pe sarpe probabil mai bine ca un om de rand.\
 Un simplu cod in c++ pentru un simplu joc.
 
